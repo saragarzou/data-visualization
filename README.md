@@ -1,5 +1,5 @@
 ### Academic Design and Communication
-This repository fulfills the Analyzing Codebase task for the course Academic Design and Communication. The exercise focused on practicing core research and development workflows, emphasizing code comprehension, professional documentation, and Git version control. The task involved thoroughly analyzing and executing the underlying code, which generates various Plotly visualizations. Concise documentation (comments) was added throughout the code to clearly explain critical steps, parameters, and logical blocks.
+This repository fulfills the Analyzing Codebase task for the course Academic Design and Communication. The exercise focused on practicing core research and development workflows, emphasizing code comprehension, professional documentation, and Git version control. The original repository can be found [here](https://github.com/avinashkranjan/Amazing-Python-Scripts/tree/main/Data-Visualization). The task involved thoroughly analyzing and executing the underlying code, which generates various Plotly visualizations. Concise documentation (comments) was added throughout the code to clearly explain critical steps, parameters, and logical blocks.
 
 # Data Visualizations
 
