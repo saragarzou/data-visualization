@@ -1,0 +1,42 @@
+bar chart.py
+A bar chart of product names on the x-axis with random
+values on the y-axis.
+
+bubble chart.py
+Creates a bubble chart using random x, y, and sizes values.
+Marker size is controlled by a size array.
+
+contour plot.py
+Generates x and y grids; computes z using a sine function.
+Plots a contour map.
+
+FunnelCharts.py
+This creates a funnel chart for India, Bangladesh, and Sri
+Lanka, showcasing labels and values.
+
+heat maps.py
+This function creates a heat map from a 2D Numpy array
+using px.imshow.
+
+histogram.py
+Generates random data and a histogram plot via
+px.histogram.
+
+line chart.py 
+Defines a function to create a line chart given x, y data.
+
+pie chart.py 
+Creates a pie chart displaying random values with product
+labels, showing the percentage inside the slices.
+
+scatter plot.py
+Plots a scatter chart with 100 random x, y points using
+px.scatter.
+
+ternaryplot.py
+Makes a ternary scatter plot of election data. Plots three
+variables within a triangular coordinate system.
+
+Waterfall.py
+Creates a waterfall chart displaying step-by-step increases
+and decreases.

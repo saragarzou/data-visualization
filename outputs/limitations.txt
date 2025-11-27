@@ -1,0 +1,8 @@
+The current implementation is functionally effective; however, there is room for improvement
+and possible extensions. Currently, the plotting scripts are based on Numpy to generate random
+mock data. An extension would be to integrate the Pandas library. This would allow users
+to import real-world data directly through a CSV or Excel file. Similarly, modularizing these
+scripts as a single Python class or package would improve reusability. That would make it easier
+to import the visualizations into other projects. Lastly, the documentation could be improved.
+Detailed docstrings and variable definitions to clarify code logic would ensure that the functions
+are easily understood by developers.

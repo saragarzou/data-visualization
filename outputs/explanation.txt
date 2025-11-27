@@ -1,0 +1,15 @@
+In this project, each Python file creates one specific type of data visualization using Plotly and
+NumPy. Every script is independent and running one file directly produces one chart window.
+The general flow is always the same:
+
+1. Import necessary libraries: plotly and numpy
+2. Set a random seed so that the random numbers are always the same whenever we run the
+script.
+3. Generate some simple example data
+4. Create a Plotly figure object for the selected chart type
+5. Call fig.show() to display the interactive chart
+
+The system operates by first selecting a specific script. Once chosen, the script is executed,
+which triggers the generation of sample data. This data is then used to construct a Plotly figure,
+resulting in the display of the final chart. 
+
