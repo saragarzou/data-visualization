@@ -1,0 +1,43 @@
+    data-visualization/
+|-----outputs/
+|    |-----explanation.txt
+|    |-----limitations.txt
+|    |-----output.txt
+|-----src/
+|    |-----BarChart/
+|    |    |-----RevisedBarChart.png
+|    |    |-----bar_chart.py
+|    |-----BubbleChart/
+|    |    |-----BubbleChart.png
+|    |    |-----bubble_chart.py
+|    |-----Contour Plots/
+|    |    |-----contour_plot.py
+|    |    |-----contourplot.png
+|    |-----FunnelChart/
+|    |    |-----FunnelChart.png
+|    |    |-----FunnelCharts.py
+|    |-----HeatMap/
+|    |    |-----HeatMap.png
+|    |    |-----heat_maps.py
+|    |-----HistogramPlot/
+|    |    |-----Histogram.png
+|    |    |-----histogram.py
+|    |-----LineChart/
+|    |    |-----LineChart.png
+|    |    |-----line_chart.py
+|    |-----PieChart/
+|    |    |-----RevisedPieChart.png
+|    |    |-----pie_chart.py
+|    |-----ScatterPlot/
+|    |    |-----ScatterPlot.png
+|    |    |-----scatter_plot.py
+|    |-----TernaryPlots/
+|    |    |-----TernaryPlot.py
+|    |    |-----ternaryplot.png
+|    |-----WaterfallChart/
+|    |    |-----WaterFall.png
+|    |    |-----Waterfall.py
+|-----.gitignore
+|-----LICENSE
+|-----file_structure
+|_____README.md
