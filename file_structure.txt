@@ -39,5 +39,6 @@
 |    |    |-----Waterfall.py
 |-----.gitignore
 |-----LICENSE
-|-----file_structure
-|_____README.md
+|-----README.md
+|-----file_structure.txt
+|_____requirements.txt
